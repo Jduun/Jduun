@@ -18,5 +18,5 @@ I'm a 4th-year Software Engineering student and a beginner Backend Developer.
 ![Jduun's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jduun&layout=donut&theme=tokyonight)
 
 ## My Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=38ace4)](https://t.me/stanislav743)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=ff0000)](mailto:nnaph154@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-201c24?style=for-the-badge&logo=telegram&logoColor=38ace4)](https://t.me/stanislav743)
+[![Gmail](https://img.shields.io/badge/-Gmail-201c24?style=for-the-badge&logo=gmail&logoColor=ff0000)](mailto:nnaph154@gmail.com)
