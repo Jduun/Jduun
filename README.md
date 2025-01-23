@@ -1,4 +1,4 @@
-[![Header](https://github.com/Jduun/Jduun/blob/main/assets/github-header-image.png)](https://github.com/Jduun)
+[![Header](https://github.com/Jduun/Jduun/blob/main/assets/header_image.png)](https://github.com/Jduun)
 
 ## About me
 I'm a 4th-year Software Engineering student and a beginner Backend Developer.
