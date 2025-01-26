@@ -15,7 +15,7 @@ I'm a 4th-year Software Engineering student and a beginner Backend Developer
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-201c24?style=for-the-badge&logo=rabbitmq&logoColor=ff6404)
 
 ## Github Stats
-![Jduun's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jduun&layout=donut&theme=tokyonight)
+![Jduun's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jduun&layout=donut&theme=tokyonight&cache_seconds=3600)
 
 ## My Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-201c24?style=for-the-badge&logo=telegram&logoColor=38ace4)](https://t.me/stanislav743)
