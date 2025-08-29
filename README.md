@@ -3,4 +3,4 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,fastapi,flask,postgresql,redis,docker,kafka,nginx,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,fastapi,flask,postgresql,redis,docker,rabbitmq,kafka,nginx,git)](https://skillicons.dev)
