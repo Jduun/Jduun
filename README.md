@@ -1,5 +1,5 @@
 ### About
-👋 Hey, I'm Stanislav — a Backend Developer and Software Engineering graduate from BMSTU.
+👋 Hey, I'm Stanislav — a Software Engineer from BMSTU.
 
 ### Tech Stack
 
